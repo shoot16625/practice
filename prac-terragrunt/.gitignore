@@ -1,0 +1,6 @@
+.terraform/
+.terragrunt-cache/
+
+_provider.tf
+_terraform.tf
+.terraform.lock.hcl
